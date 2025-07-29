@@ -40,7 +40,7 @@ Opprettet en bruker med navnet **John IT** via Microsoft 365 Admin Center for å
 
 **📸 Screenshot:**
 
-![Microsoft 365 add user.png](attachment:a3584c5b-4c95-45cb-b2bb-c678325156b7:Microsoft_365_add_user.png)
+![Microsoft 365 add user.png](screenshots/Microsoft_365_add_user.png)
 
 ![microsoft 365 add user created.png](attachment:815f7204-cdb0-4432-8033-bc6f85b00fe4:microsoft_365_add_user_created.png)
 
