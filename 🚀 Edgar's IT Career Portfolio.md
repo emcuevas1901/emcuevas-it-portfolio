@@ -1,6 +1,6 @@
 # 🚀 Edgar's IT Career Portfolio
 
-[🧠 My Story + Goals (README)](%F0%9F%9A%80%20Edgar's%20IT%20Career%20Portfolio%20239f13f38cf680e08862d5ba09fef8a1/%F0%9F%A7%A0%20My%20Story%20+%20Goals%20(README)%20239f13f38cf680acba07f4430bcd9252.md)
+[🧠 My Story + Goals (README)](mystory&goals.md)
 
 [
 📚 Certifications & Courses](%F0%9F%9A%80%20Edgar's%20IT%20Career%20Portfolio%20239f13f38cf680e08862d5ba09fef8a1/%F0%9F%93%9A%20Certifications%20&%20Courses%20239f13f38cf6800782c8f3e5fcebdec4.md)
