@@ -1,6 +1,6 @@
 # 🛠 Practice & Lab Logs
 
-[📧 Microsoft 365 – User & Mailbox Setup]
+[📧 Microsoft 365 – User & Mailbox Setup](m365-user-and-mailbox/)
 
 [🖥 Active Directory – On-Prem Setup]
 
