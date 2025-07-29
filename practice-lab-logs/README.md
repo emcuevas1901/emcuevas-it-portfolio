@@ -1,10 +1,11 @@
-🛠 Practice & Lab Logs
-📧 Microsoft 365 – User & Mailbox Setup
+# 🛠 Practice & Lab Logs
 
-🖥 Active Directory – On-Prem Setup
+[📧 Microsoft 365 – User & Mailbox Setup]
 
-📦 Intune – Compliance & Device Policy
+[🖥 Active Directory – On-Prem Setup]
 
-📂 Citrix – Support & Troubleshooting Simulation
+[📦 Intune – Compliance & Device Policy]
 
-📝 JSM – Ticket Handling Scenarios
+[📂 Citrix – Support & Troubleshooting Simulation]
+
+[📝 JSM – Ticket Handling Scenarios]
