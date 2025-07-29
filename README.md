@@ -9,7 +9,7 @@
 🔧 Course Notes & Study Summaries](course-notes/)
 
 [
-📋 Job Tracker + Interview Prep](job-tracker-interview/)
+📋 Job Tracker + Interview Prep](job-tracker-interviews/)
 
 [🛠 Practice & Lab Logs](practice-lab-logs/)
 
