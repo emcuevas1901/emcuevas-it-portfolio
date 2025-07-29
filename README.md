@@ -3,21 +3,21 @@
 [🧠 My Story + Goals (README)](my-story-goals/)
 
 [
-📚 Certifications & Courses](cert-courses.md)
+📚 Certifications & Courses](cert-courses/)
 
 [
-🔧 Course Notes & Study Summaries](course-notes.md)
+🔧 Course Notes & Study Summaries](course-notes/)
 
 [
-📋 Job Tracker + Interview Prep](job-tracker-interview.md)
+📋 Job Tracker + Interview Prep](job-tracker-interview/)
 
-[🛠 Practice & Lab Logs](practice-lab-logs.md)
-
-[
-📄 Troubleshooting Scenarios](troubleshoot-scenarios.md)
+[🛠 Practice & Lab Logs](practice-lab-logs/)
 
 [
-🧠 Explain Like I’m 5](eli-5.md)
+📄 Troubleshooting Scenarios](troubleshoot-scenarios/)
 
 [
-🧾 Cheat Sheets](my-it-cheat-sheet.md)
+🧠 Explain Like I’m 5](eli-5/)
+
+[
+🧾 Cheat Sheets](my-it-cheat-sheet/)
