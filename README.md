@@ -1,6 +1,6 @@
 # 🚀 Edgar's IT Career Portfolio
 
-[🧠 My Story + Goals (README)](my-story-goals.md)
+[🧠 My Story + Goals (README)](my-story-goals/)
 
 [
 📚 Certifications & Courses](cert-courses.md)
